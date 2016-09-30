@@ -1,27 +1,16 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/)
+# Vasa Audio Tour Application Pitch Website
+The website is live [here](https://bijanisa.github.io/vasa).
 
-[The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
+## Project Description
+The project is a single-page, static website built with a forked Bootstrap template and hosted on Github Pages. The website describes a project that the collaborators envisioned as part of the [CHI](http://chi.anthropology.msu.edu) [Graduate Fellowship](http://chi.anthropology.msu.edu/fellowships/) at Michigan State University.
 
-## Getting Started
+## Team
+ * [Michael Nelson](https://github.com/michaelnetbiz)
+ * [bijanisa](https://github.com/bijanisa)
+ * [jabiggs13](https://github.com/jabiggs13)
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/the-big-picture/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-the-big-picture.git`
-* Fork the repo
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/the-big-picture/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+## Disclaimer
+We are not affiliated with the [Vasa Museum](https://www.vasamuseet.se/en)!
 
 ## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/gh-pages/LICENSE) license.
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
