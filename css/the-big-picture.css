@@ -7,11 +7,18 @@
 body {
 	margin-top: 50px;
 	margin-bottom: 50px;
-	background: none;
+    margin-left: 50%;
+    opacity: 0.7;
+    background-color: black;
+    text-align: right;
+    color: #ffffff;
+    font-weight: 800;
 }
-
+h1{ 
+    font-variant-caps: all-petite-caps;  
+}
 .full {
-  background: url(http://placehold.it/1920x1080) no-repeat center center fixed; 
+  background: url(/img/header-bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
