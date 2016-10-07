@@ -5,19 +5,19 @@
  */
 
 body {
-	margin-top: 50px;
-	margin-bottom: 50px;
-    margin-left: 10%;
-	margin-right: 10%;
-    opacity: 0.7;
-    background-color: black;
-    text-align: left;
-    color: #ffffff;
-    font-weight: 800;
-	font-family: 'Roboto';
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+  opacity: 0.7;
+  background-color: black;
+  text-align: left;
+  color: #ffffff;
+  font-weight: 800;
+  font-family: 'Roboto';
 }
 h1{ 
-    font-variant-caps: all-petite-caps;  
+  font-variant-caps: all-petite-caps;  
 }
 .full {
   background: url(https://www.vasamuseet.se/globalassets/vasamuseet/bilder/skeppet/tidslinjen/2015_tripadvisor.jpg) no-repeat center center fixed; 
@@ -29,4 +29,10 @@ h1{
 
 .home-nav {
   float:left;
+}
+
+.team-photos {
+  opacity:100%;
+  padding:20px;
+  text-align:center;
 }
