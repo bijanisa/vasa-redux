@@ -1,5 +1,5 @@
 # Vasa Audio Tour Application Pitch Website
-The website is live [here](https://bijanisa.github.io/vasa).
+The website is live [here](https://bijanisa.github.io/vasa-redux).
 
 ## Project Description
 The project is a single-page, static website built with a forked Bootstrap template and hosted on Github Pages. The website describes a project that the collaborators envisioned as part of the [CHI](http://chi.anthropology.msu.edu) [Graduate Fellowship](http://chi.anthropology.msu.edu/fellowships/) at Michigan State University.
