@@ -5,6 +5,7 @@
  */
 
 body {
+<<<<<<< HEAD
   margin-top: 50px;
   margin-bottom: 50px;
   margin-left: 10%;
@@ -15,10 +16,30 @@ body {
   color: #ffffff;
   font-weight: 800;
   font-family: 'Roboto';
+=======
+	margin-top: 50px;
+	margin-bottom: 50px;
+    margin-left: 10%;
+	margin-right: 10%;
+    opacity: 0.7;
+    background-color: black;
+    text-align: left;
+    color: #ffffff;
+    font-weight: 800;
+	font-family: 'Roboto';
+	font-size: 25px;
+>>>>>>> 1fb2f74f9f300909e3048a9e1501be59b8c641ba
 }
+
 h1{ 
+<<<<<<< HEAD
   font-variant-caps: all-petite-caps;  
+=======
+    font-variant-caps: all-petite-caps;  
+	font-size: 65px;
+>>>>>>> 1fb2f74f9f300909e3048a9e1501be59b8c641ba
 }
+
 .full {
   background: url(https://www.vasamuseet.se/globalassets/vasamuseet/bilder/skeppet/tidslinjen/2015_tripadvisor.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
