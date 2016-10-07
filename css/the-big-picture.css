@@ -18,6 +18,11 @@ body {
   font-size: 23px;
 }
 
+figure {
+  border:.25px solid #747D7D;
+    border-radius: 25px;
+}
+
 h1{ 
   font-variant-caps: all-petite-caps;
   font-size: 65px;
