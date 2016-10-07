@@ -15,10 +15,14 @@ body {
     color: #ffffff;
     font-weight: 800;
 	font-family: 'Roboto';
+	font-size: 20px;
 }
+
 h1{ 
     font-variant-caps: all-petite-caps;  
+	font-size: 50px;
 }
+
 .full {
   background: url(https://www.vasamuseet.se/globalassets/vasamuseet/bilder/skeppet/tidslinjen/2015_tripadvisor.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
